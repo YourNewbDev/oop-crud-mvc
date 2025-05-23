@@ -1,1 +1,1 @@
-Practice for Model-View-Controller design pattern
+* Practice for Model-View-Controller Design Pattern *
