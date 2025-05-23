@@ -1,0 +1,12 @@
+{
+    "name": "harvin/oopcrud",
+    "autoload": {
+        "psr-4": {
+            "Harvin\\Oopcrud\\": "src/",
+            "Models\\": "models/",
+            "Config\\": "config/",
+            "Controller\\": "controllers/"
+        }
+    },
+    "require": {}
+}
