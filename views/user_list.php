@@ -3,7 +3,10 @@ require_once __DIR__ . '/../vendor/autoload.php';
 
 use Controller\UserController;
 
+
+// Create instance of UserController Class
 $userController = new UserController();
+// Retrieve the list of users from the database using getUsers method
 $users = $userController->getUsers();
 
 echo "<h1>User List</h1>";
